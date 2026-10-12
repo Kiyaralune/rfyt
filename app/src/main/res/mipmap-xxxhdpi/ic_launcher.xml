@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Dark Background -->
+    <path
+        android:fillColor="#0F0F12"
+        android:pathData="M0,0h108v108h-108z" />
+    
+    <!-- Neon YouTube TV Shell Rounded Rectangle -->
+    <path
+        android:fillColor="#FF0033"
+        android:pathData="M84,32 C87.3,32 90,34.7 90,38 L90,70 C90,73.3 87.3,76 84,76 L24,76 C20.7,76 18,73.3 18,70 L18,38 C18,34.7 20.7,32 24,32 Z" />
+
+    <!-- Neon Cyan Shadow/Glitch Effect (RealFake) -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M46,45 L66,54 L46,63 Z" />
+
+    <!-- Center White Play Triangle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,43 L68,54 L48,65 Z" />
+
+    <!-- Antenna RF (RealFake Radio Waves) -->
+    <path
+        android:strokeColor="#A855F7"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M38,24 L48,32 M70,24 L60,32" />
+</vector>

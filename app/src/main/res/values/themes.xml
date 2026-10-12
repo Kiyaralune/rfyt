@@ -1,0 +1,15 @@
+<resources>
+    <style name="Theme.RFYT" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/bg_main</item>
+        <item name="android:navigationBarColor">@color/bg_main</item>
+        <item name="android:windowBackground">@color/bg_main</item>
+        <item name="colorPrimary">@color/yt_red</item>
+        <item name="colorSecondary">@color/yt_neon_cyan</item>
+    </style>
+
+    <style name="Theme.RFYT.Player" parent="Theme.RFYT">
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:statusBarColor">@color/black</item>
+        <item name="android:navigationBarColor">@color/black</item>
+    </style>
+</resources>

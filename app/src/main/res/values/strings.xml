@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RealFakeYT</string>
+    <string name="tagline">By Kiyara.</string>
+    <string name="search_hint">Telusuri video YouTube...</string>
+</resources>
